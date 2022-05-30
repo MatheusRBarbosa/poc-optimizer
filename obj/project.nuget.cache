@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sF5Ysq9lDVG73/bD4LPCEznUbSf2pfkQRjbhn6cSSsutTdSVYGADcAB90RFCCREgp+leUdpwkuam01CbnOaQ4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mathe\\Projects\\BeeBee\\poc-optimizer\\poc-optimizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
